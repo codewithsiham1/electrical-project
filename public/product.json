@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "image": "https://i.ibb.co.com/JnzMyKm/download-1.jpg",
+      "description": "High-quality noise-canceling wireless headphones with up to 20 hours of battery life.",
+      "price": 40,
+      "category": "Electronics",
+      "isFeature": true
+    },
+    {
+      "id": 2,
+      "name": "Smartphone",
+      "image": "https://i.ibb.co.com/bb0B13X/download.jpg",
+      "description": "Latest model smartphone with a 6.5-inch display and 128GB storage.",
+      "price": 50,
+      "category": "Electronics",
+      "isFeature": true
+    },
+    {
+      "id": 3,
+      "name": "Coffee Maker",
+      "image": "https://i.ibb.co.com/WGzmqwz/download-2.jpg",
+      "description": "Brews a perfect cup of coffee in just 5 minutes with customizable strength settings.",
+      "price": 60,
+      "category": "Home Appliances",
+      "isFeature": false
+    },
+    {
+      "id": 4,
+      "name": "Electric Toothbrush",
+      "image": "https://i.ibb.co.com/ZzLX8yG/download.png",
+      "description": "Advanced electric toothbrush with 3 modes for a deep clean and longer battery life.",
+      "price": 70,
+      "category": "Personal Care",
+      "isFeature": false
+    },
+    {
+      "id": 5,
+      "name": "Gaming Mouse",
+      "image": "https://i.ibb.co.com/ygK8Lq5/download-3.jpg",
+      "description": "Ergonomic gaming mouse with customizable RGB lighting and 16000 DPI sensitivity.",
+      "price": 80,
+      "category": "Electronics",
+      "isFeature": true
+    },
+    {
+      "id": 6,
+      "name": "Bluetooth Speaker",
+      "image": "https://i.ibb.co.com/98SJ5LX/download-4.jpg",
+      "description": "Portable Bluetooth speaker with rich sound and up to 12 hours of playtime.",
+      "price": 90,
+      "category": "Electronics",
+      "isFeature": false
+    }
+  ]
+  
